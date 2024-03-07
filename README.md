@@ -1,4 +1,4 @@
-# capstone_project
+# Capstone Project
 
 ## Info
 
