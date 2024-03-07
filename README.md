@@ -2,4 +2,4 @@
 
 ## Info
 
-* Suggesting more simmilar products from given pictuers.
+* Suggesting most simmilar products from given pictuers.
